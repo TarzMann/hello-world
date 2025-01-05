@@ -5,3 +5,8 @@ html, body {
     justify-content: center;
     align-items: center;
 }
+
+.container {
+    width: 66%;
+    padding: 100px;
+}
