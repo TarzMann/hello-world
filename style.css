@@ -1,0 +1,14 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    font-family: "Arial", san-serif;
+    width: 66%;
+    padding: 100px;
+    text-align: center;
+}
